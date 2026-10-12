@@ -1,0 +1,5 @@
+Kit de la séance 6 - CLI « trace »
+
+Point de départ : le programme de fin de séance 5 (erreurs gérées).
+tests/ contient 6 paires de fichiers TN-entree.txt / TN-attendu.txt.
+Suivez le livret S6_02.

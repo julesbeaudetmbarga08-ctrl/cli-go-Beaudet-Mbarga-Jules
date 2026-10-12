@@ -1,0 +1,2 @@
+2026-10-06 08:02:11 info badge 0x1F4
+2026-10-06 08:05:47 WARN Wifi 11 hall-entree

@@ -1,0 +1,9 @@
+2026-10-06 08:02:11 INFO Badge 500 porte-a07
+2026-10-06 08:05:47 WARN Wifi 11 hall-entree
+2026-10-06 08:09:03 ERROR Imprimante 255 salle-b12
+2026-10-06 08:15:30 INFO Badge 42 parking
+2026-10-06 08:21:18 INFO Wifi 6 cafeteria
+2026-10-06 08:34:52 WARN Chauffage 16 salle-a07
+2026-10-06 08:40:09 ERROR Badge 200 porte-b03
+2026-10-06 08:47:44 INFO Imprimante 1 salle-b12
+2026-10-06 08:52:31 WARN Écran 3 salle-a07

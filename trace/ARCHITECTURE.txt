@@ -1,0 +1,12 @@
+trace - nettoyeur de logs du campus
+
+main.go       vérifie les arguments, enchaîne lecture → transformation → écriture
+  │
+  ├──► fileio      Lire(chemin string) (string, error)
+  │                Ecrire(chemin string, texte string) error
+  │
+  └──► transform   Texte(texte string) string
+                   Ligne(ligne string) string
+                   Capitaliser(mot string) string
+                   ConvertirCode(code string) string
+                   Compter(texte string) int
